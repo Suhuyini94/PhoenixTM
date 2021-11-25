@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 export default function RequestScreen() {
     return (
         <View>
-            <Text>Request Screen</Text>
+            <Text>Request Screen !</Text>
         </View>
     )
 }
